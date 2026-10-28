@@ -9,9 +9,9 @@ Tabata: Interval Timer ("the app") does not collect any personal data.
 - The app has no account and no sign-in.
 - The app does not connect to the internet. It contains no analytics, no
   advertising and no third-party SDKs, and it does not track you.
-- Your workout presets and the sound, voice and vibration switches are stored
-  only on your device, in the app's own storage. They are not sent anywhere.
-  Deleting the app deletes them.
+- Your workout presets and the sound, voice, ticking and vibration switches
+  are stored only on your device, in the app's own storage. They are not sent
+  anywhere. Deleting the app deletes them.
 - The app uses the device's audio and vibration only to give the workout
   signals. The names of the phases are spoken by the speech synthesis built
   into iOS, on the device.
@@ -31,8 +31,8 @@ Tabata: Intervall-Timer („die App“) erhebt keinerlei personenbezogene Daten.
 - Die App hat kein Konto und keine Anmeldung.
 - Die App verbindet sich nicht mit dem Internet. Sie enthält keine Analyse,
   keine Werbung und keine SDKs von Drittanbietern und verfolgt dich nicht.
-- Deine Workout-Vorlagen und die Schalter für Ton, Sprachansage und Vibration
-  werden nur auf deinem Gerät im Speicher der App abgelegt. Sie werden
+- Deine Workout-Vorlagen und die Schalter für Ton, Sprachansage, Ticken und
+  Vibration werden nur auf deinem Gerät im Speicher der App abgelegt. Sie werden
   nirgendwohin gesendet. Wenn du die App löschst, werden sie mitgelöscht.
 - Die App nutzt Ton und Vibration des Geräts nur für die Workout-Signale. Die
   Namen der Phasen spricht die in iOS eingebaute Sprachausgabe auf dem Gerät.
@@ -53,7 +53,7 @@ Tabata : minuteur HIIT (« l’app ») ne collecte aucune donnée personnelle.
 - L’app n’a ni compte ni connexion.
 - L’app ne se connecte pas à Internet. Elle ne contient ni statistiques
   d’usage, ni publicité, ni SDK tiers, et ne vous suit pas.
-- Vos entraînements enregistrés et les réglages Son, Voix et Vibration sont
+- Vos entraînements enregistrés et les réglages Son, Voix, Tic-tac et Vibration sont
   stockés uniquement sur votre appareil, dans l’espace de l’app. Ils ne sont
   envoyés nulle part. Supprimer l’app les supprime.
 - L’app utilise le son et la vibration de l’appareil uniquement pour les
@@ -75,7 +75,7 @@ Tabata: temporizador HIIT («la app») no recopila ningún dato personal.
 - La app no tiene cuenta ni inicio de sesión.
 - La app no se conecta a internet. No contiene analítica, publicidad ni SDK de
   terceros, y no te rastrea.
-- Tus entrenamientos guardados y los ajustes de Sonido, Voz y Vibración se
+- Tus entrenamientos guardados y los ajustes de Sonido, Voz, Tictac y Vibración se
   guardan solo en tu dispositivo, en el almacenamiento de la app. No se envían
   a ningún sitio. Al eliminar la app, se eliminan.
 - La app usa el sonido y la vibración del dispositivo solo para las señales
@@ -97,7 +97,7 @@ Tabata: timer a intervalli («l’app») non raccoglie alcun dato personale.
 - L’app non ha account né accesso.
 - L’app non si connette a internet. Non contiene analisi, pubblicità né SDK di
   terze parti, e non ti traccia.
-- I tuoi allenamenti salvati e le impostazioni Suono, Voce e Vibrazione sono
+- I tuoi allenamenti salvati e le impostazioni Suono, Voce, Ticchettio e Vibrazione sono
   conservati solo sul tuo dispositivo, nella memoria dell’app. Non vengono
   inviati da nessuna parte. Eliminando l’app, vengono eliminati.
 - L’app usa il suono e la vibrazione del dispositivo solo per i segnali
@@ -121,7 +121,7 @@ Contatto: alekseytkalich@gmail.com
 - В приложении нет аккаунта и входа.
 - Приложение не подключается к интернету. В нём нет аналитики, рекламы и
   сторонних SDK, оно не отслеживает пользователя.
-- Пресеты тренировок и переключатели звука, голоса и вибрации хранятся только
+- Пресеты тренировок и переключатели звука, голоса, тиканья и вибрации хранятся только
   на устройстве, в хранилище самого приложения, и никуда не передаются. При
   удалении приложения они удаляются.
 - Звук и вибрация устройства используются только для сигналов тренировки.
