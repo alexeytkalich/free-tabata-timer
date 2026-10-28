@@ -10,9 +10,9 @@ in the app (main screen, Signals) and that the volume is up. The signals play
 even when the ring/silent switch is on silent.
 
 **Voice and ticking.** With Voice on, the app says the name of every new
-phase. With Sound on, the running timer ticks quietly twice a second (the
-volume suits headphones), so you can hear that it is counting. Both can be
-turned off on the main screen, under Signals.
+phase. With Ticking on, the running timer ticks quietly four times a second
+(the volume suits headphones), so you can hear that it is counting. Both
+switches are on the main screen, under Signals; Ticking is off by default.
 
 **Vibration.** Vibration is off by default; turn it on under Signals. It is
 reliable while the timer is on screen; with the screen locked, iOS may not
@@ -35,10 +35,10 @@ App „Ton“ eingeschaltet ist (Startbildschirm, Signale) und die Lautstärke
 nicht auf null steht. Die Signale sind auch im Stumm-Modus zu hören.
 
 **Sprachansage und Ticken.** Mit eingeschalteter „Sprachansage“ nennt die App
-jede neue Phase. Mit eingeschaltetem „Ton“ tickt der laufende Timer leise
-zweimal pro Sekunde (die Lautstärke ist für Kopfhörer abgestimmt), damit du
-hörst, dass er zählt. Beides lässt sich auf dem Startbildschirm unter
-„Signale“ ausschalten.
+jede neue Phase. Mit eingeschaltetem „Ticken“ tickt der laufende Timer leise
+viermal pro Sekunde (die Lautstärke ist für Kopfhörer abgestimmt), damit du
+hörst, dass er zählt. Beide Schalter sind auf dem Startbildschirm unter
+„Signale“; „Ticken“ ist anfangs aus.
 
 **Vibration.** Die Vibration ist anfangs aus; schalte sie unter „Signale“ ein.
 Sie ist zuverlässig, solange der Timer angezeigt wird; bei gesperrtem
@@ -61,9 +61,10 @@ activé dans l’app (écran principal, Signaux) et que le volume n’est pas à
 zéro. Les signaux retentissent même en mode silencieux.
 
 **Voix et tic-tac.** Avec « Voix » activé, l’app annonce chaque nouvelle
-phase. Avec « Son » activé, le minuteur en marche fait un léger tic-tac deux
-fois par seconde (volume pensé pour des écouteurs) : vous entendez qu’il
-compte. Les deux se désactivent sur l’écran principal, dans Signaux.
+phase. Avec « Tic-tac » activé, le minuteur en marche fait un léger tic
+quatre fois par seconde (volume pensé pour des écouteurs) : vous entendez
+qu’il compte. Les deux réglages sont sur l’écran principal, dans Signaux ;
+« Tic-tac » est désactivé par défaut.
 
 **Vibration.** La vibration est désactivée par défaut ; activez-la dans
 Signaux. Elle est fiable tant que le minuteur est à l’écran ; écran verrouillé,
@@ -86,9 +87,10 @@ está activado en la app (pantalla principal, Señales) y que el volumen no est�
 a cero. Las señales suenan incluso en modo silencio.
 
 **Voz y tictac.** Con «Voz» activada, la app dice el nombre de cada nueva
-fase. Con «Sonido» activado, el temporizador en marcha hace un leve tictac dos
+fase. Con «Tictac» activado, el temporizador en marcha hace un leve tic cuatro
 veces por segundo (volumen pensado para auriculares), para que oigas que está
-contando. Ambos se desactivan en la pantalla principal, en Señales.
+contando. Ambos ajustes están en la pantalla principal, en Señales; «Tictac»
+está desactivado por defecto.
 
 **Vibración.** La vibración está desactivada por defecto; actívala en Señales.
 Es fiable mientras el temporizador está en pantalla; con la pantalla
@@ -111,9 +113,10 @@ attivo nell’app (schermata principale, Segnali) e che il volume non sia a
 zero. I segnali si sentono anche in modalità silenziosa.
 
 **Voce e ticchettio.** Con «Voce» attiva, l’app pronuncia il nome di ogni
-nuova fase. Con «Suono» attivo, il timer in corsa ticchetta piano due volte al
-secondo (volume pensato per le cuffie), così senti che sta contando. Entrambi
-si disattivano nella schermata principale, in Segnali.
+nuova fase. Con «Ticchettio» attivo, il timer in corsa ticchetta piano quattro
+volte al secondo (volume pensato per le cuffie), così senti che sta contando.
+Entrambe le impostazioni sono nella schermata principale, in Segnali;
+«Ticchettio» è disattivato di default.
 
 **Vibrazione.** La vibrazione è disattivata di default; attivala in Segnali. È
 affidabile finché il timer è sullo schermo; a schermo bloccato iOS potrebbe
@@ -136,9 +139,10 @@ Informativa sulla privacy: https://github.com/alexeytkalich/free-tabata-timer/bl
 Сигналы звучат и в беззвучном режиме.
 
 **Голос и тиканье.** Со включённым «Голосом» приложение называет каждую
-новую фазу. Со включённым «Звуком» идущий таймер тихо тикает два раза в
+новую фазу. Со включённым «Тиканьем» идущий таймер тихо тикает четыре раза в
 секунду (громкость рассчитана на наушники) — слышно, что время считается.
-Оба переключателя — на главном экране, в разделе «Сигналы».
+Оба переключателя — на главном экране, в разделе «Сигналы»; «Тиканье» по
+умолчанию выключено.
 
 **Вибрация.** По умолчанию выключена, включается в разделе «Сигналы».
 Вибрация надёжна, пока таймер на экране; при заблокированном экране iOS может
